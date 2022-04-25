@@ -1,0 +1,20 @@
+[
+    {
+        "role":"Backend Engineer (PHP, Go)",
+        "company":"PR TIMES, Inc.",
+        "summary":"PR TIMES のサービスのバックエンドを担当。基本的に PHP によって開発。サーバーレスアプリケーションは Go で開発。",
+        "range":"April 2020 - Present"
+    },
+    {
+        "role":"Python Engineer, Intern",
+        "company":"ZAISAN Net, Inc.",
+        "summary":"",
+        "range":"February 2018 - June 2019"
+    },
+    {
+        "role":"iOS Engineer, Intern",
+        "company":"moi Corporation",
+        "summary":"２週間のインターンでiOSアプリをチーム開発した。",
+        "range":"August 2018 - September 2018"
+    }
+]
