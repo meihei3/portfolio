@@ -1,0 +1,18 @@
+[
+  {
+    "grouping":"Languages & frameworks",
+    "skills":["PHP", "Python", "Go", "javascript", "Laravel", "Flask", "Django"]
+  },
+  {
+    "grouping":"Data Management & Analytics",
+    "skills":["MySQL", "PostgreSQL", "BigQuery", "Pandas"]
+  },
+  {
+    "grouping":"Containers & Cloud Administration",
+    "skills":["Docker", "AWS", "NewRelic"]
+  },
+  {
+    "grouping":"Love",
+    "skills":["fish", "Visual Studio Code", "PhpStorm"]
+  }
+]
