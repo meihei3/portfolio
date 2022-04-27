@@ -1,4 +1,44 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "meihei's profile"
 theme = "hugo-resume"
+
+[params]
+favicon = "/favicon.ico"
+firstName = "Yohei"
+lastName = "Ema"
+profileImage = "img/TechChat.png"
+showEducation = true
+showExperience = true
+showProjects = true
+showSkills = true
+
+[[params.handles]]
+link = "https://github.com/meihei3/"
+name = "GitHub"
+
+[[params.handles]]
+link = "https://twitter.com/app1e_s/"
+name = "Twitter"
+
+[[params.handles]]
+link = "https://speakerdeck.com/meihei3"
+name = "Speaker Deck"
+
+[[params.handles]]
+link = "https://zenn.dev/meihei"
+name = "Zenn"
+
+[[params.handles]]
+link = "https://qiita.com/meihei"
+name = "Qiita"
+
+[[params.handles]]
+link = "https://note.com/meihei/"
+name = "note"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
