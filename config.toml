@@ -24,6 +24,7 @@ name = "Twitter"
 [[params.handles]]
 link = "https://speakerdeck.com/meihei3"
 name = "Speaker Deck"
+icon = "speaker-deck"
 
 [[params.handles]]
 link = "https://zenn.dev/meihei"
