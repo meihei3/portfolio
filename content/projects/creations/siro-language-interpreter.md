@@ -4,7 +4,7 @@ date: 2022-04-29T17:55:29+09:00
 featured: true
 description: "brainf*ckの拡張言語Siroをウェブ上で実行するインタープリタ"
 tags: ["JavaScript", "VTuber"]
-image: "/image/siro-language-interpreter.png"
+image: "/image/siro-language-interpreter.webp"
 link: ""
 fact: ""
 weight: 510

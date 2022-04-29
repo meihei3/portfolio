@@ -4,7 +4,7 @@ date: 2022-04-29T17:39:37+09:00
 featured: true
 description: "Twitterで誕生日のときに、.LIVEのキャラクターの風船が飛ぶChrome拡張機能。"
 tags: ["JavaScript", "VTuber", "Chrome Extension"]
-image: "/image/dot-live-balloon.jpeg"
+image: "/image/dot-live-balloon.webp"
 link: ""
 fact: ""
 weight: 500

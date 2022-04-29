@@ -4,7 +4,7 @@ date: 2022-04-29T17:53:26+09:00
 featured: true
 description: "ブラウザの履歴から自分の興味のあるワードをマイニングし、wordcloudで表示する。"
 tags: ["Python", "wordcloud"]
-image: "/image/search-me.png"
+image: "/image/search-me.webp"
 link: ""
 fact: ""
 weight: 540
