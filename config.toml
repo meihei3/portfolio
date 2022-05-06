@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://portfolio.meihei.live/'
 languageCode = 'en-us'
 title = "meihei's profile"
 theme = "hugo-resume"
