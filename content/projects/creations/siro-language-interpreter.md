@@ -5,6 +5,7 @@ featured: true
 description: "brainf*ckの拡張言語Siroをウェブ上で実行するインタープリタ"
 tags: ["JavaScript", "VTuber"]
 image: "/image/siro-language-interpreter.webp"
+image_resized: "/image/w450/siro-language-interpreter.webp"
 link: ""
 fact: ""
 weight: 510
