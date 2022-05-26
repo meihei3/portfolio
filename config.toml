@@ -13,6 +13,10 @@ showExperience = true
 showProjects = true
 showSkills = true
 
+[params.google]
+[params.google.analytics]
+trackerID = "G-B8RCYNH6P6"
+
 [[params.handles]]
 link = "https://github.com/meihei3/"
 name = "GitHub"
